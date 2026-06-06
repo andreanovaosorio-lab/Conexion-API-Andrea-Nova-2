@@ -14,13 +14,13 @@ Este proyecto es una aplicación Python que se conecta a la **API de Google Gemi
 
 ## 🚀 Pasos para Ejecutar el Programa
 
-### 1. **Clonar el repositorio** (si aún no lo has hecho)
+### 1. **Clonar el repositorio** 
 ```bash
 git clone <URL_DEL_REPOSITORIO>
 cd Conexion-API-Andrea-Nova-2
 ```
 
-### 2. **Crear un ambiente virtual** (recomendado)
+### 2. **Crear un ambiente virtual** 
 ```bash
 # En Windows
 python -m venv venv
