@@ -53,6 +53,20 @@ python app_gemini.py
 El programa debería ejecutarse y mostrar la respuesta de Gemini en la consola.
 
 ---
+### 6. **Resultados esperados**
+```
+Confirmación de la conexion 
+<img width="713" height="252" alt="image" src="https://github.com/user-attachments/assets/48dccd67-c30f-4668-b1c4-fff6745f93f6" />
+
+```
+Respuesta de la pregunta realizada, este caso la pregunta fue " Presentate y dime un chiste" a lo que el script responde: 
+
+<img width="1571" height="711" alt="image" src="https://github.com/user-attachments/assets/16adfbaf-683c-433e-888f-0ab0a4f50e8e" />
+
+
+El programa debería ejecutarse y mostrar la respuesta de Gemini en la consola.
+
+---
 
 ## 📦 Archivos Principales
 
