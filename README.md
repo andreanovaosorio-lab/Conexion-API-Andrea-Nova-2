@@ -93,16 +93,3 @@ El programa debería ejecutarse y mostrar la respuesta de Gemini en la consola.
 
 ---
 
-## 🐛 Solución de Problemas
-
-### Error: "ModuleNotFoundError: No module named 'google'"
-- Asegúrate de haber activado el ambiente virtual
-- Reinstala las dependencias: `pip install -r requirements.txt`
-
-### Error: "GEMINI_API_KEY no encontrada"
-- Verifica que el archivo `.env` existe en la raíz del proyecto
-- Confirma que contiene la línea correcta con tu clave API
-
-### Error de conexión a la API
-- Verifica tu conexión a internet
-- Comprueba que tu clave API es válida en [Google AI Studio](https://aistudio.google.com/app/apikeys)
