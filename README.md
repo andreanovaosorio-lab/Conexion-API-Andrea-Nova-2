@@ -55,8 +55,10 @@ El programa debería ejecutarse y mostrar la respuesta de Gemini en la consola.
 ---
 ### 6. **Resultados esperados**
 ```
-Confirmación de la conexion 
-<img width="713" height="252" alt="image" src="https://github.com/user-attachments/assets/48dccd67-c30f-4668-b1c4-fff6745f93f6" />
+Confirmación de la conexion
+
+<img width="1103" height="168" alt="image" src="https://github.com/user-attachments/assets/55b652b7-05b7-4a17-9737-4db3c3e7503d" />
+
 
 ```
 Respuesta de la pregunta realizada, este caso la pregunta fue " Presentate y dime un chiste" a lo que el script responde: 
